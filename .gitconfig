@@ -1,0 +1,7 @@
+[core]
+	editor = /usr/bin/vim
+[user]
+	email = nazomikan@gmail.com
+	name = nazomikan
+[color]
+	ui = auto
